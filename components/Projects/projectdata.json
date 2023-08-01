@@ -1,0 +1,36 @@
+[
+    {
+    "id":"0",
+    "name":"2D Snow Boarder",
+    "Github":"https://github.com/IshanKhurana12/SNOW-BOARDER2D",
+    "stackused":"unity 2D,C#",
+    "data":"This is a beutiful 2d game baed on surfing. I made this when I was learing Unity and C#. this is a work of art. I isist you to download the source code and play once you will be mesmeraised with the beuty of this game"
+},
+{
+    "id":"1",
+    "name":"Spotify Clone",
+    "Github":"https://github.com/IshanKhurana12/spotify-clone",
+    "stackused":"html,css,javascript,react,mongodb",
+    "link":"https://ishankhurana12.github.io/spotify-clone/",
+    "data":"Are you ready to immerse yourself in a world of endless musical enchantment? Step into TuneWave, the ultimate Spotify clone designed to harmonize your soul with the rhythm of the universe. With a mesmerizing array of features and a vast library of tracks, TuneWave is poised to become your gateway to boundless auditory delight."
+},
+{
+    "id":"2",
+    "name":"E-Leatning App",
+    "Github":"https://github.com/IshanKhurana12/elearning",
+    "stackused":"react,contextApi,javascript,html,css",
+    "link":"https://twoopcoders.onrender.com/",
+    "data":"Step into the world of LearnEase, an innovative e-learning app that redefines the way you learn and grow. With a passion for education and a commitment to excellence, LearnEase is designed to make knowledge accessible, engaging, and enjoyable for learners of all ages and backgrounds."
+},
+{
+    "id":"3",
+    "name":"ERS(Employee Review System)",
+    "Github":"https://github.com/IshanKhurana12/Employee-Review-System",
+    "stackused":"Node.js,mongodb,express,js,html,css,ejs",
+    "link":"https://ers-pzlq.onrender.com",
+    "data":"Introducing: ERS - Elevate Your Workforce, Inspire Excellence! PerforMates is a cutting-edge employee review system that revolutionizes the way organizations evaluate and nurture their workforce. Built with a commitment to transparency, objectivity, and growth, PerforMates empowers companies to unleash the full potential of their employees and foster a culture of continuous improvement."
+}
+
+
+
+]

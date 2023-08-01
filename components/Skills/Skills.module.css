@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:200,300,400,400i,700");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:200,400,400i,700");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Lato, sans-serif;
+}
+#skills{
+    background-color: #181818;
+    display: flex;
+    height: 100vh;
+    flex-direction: column-reverse;
+    align-items: center;
+    
+}
+
+
+img{
+    height:140px;
+    border: none;
+    border-radius: 6px;
+}
+img:hover{
+    outline: none;
+    border-color: red;
+   
+    box-shadow: 0 0 10px 5px #48abe0,
+    0 0 20px 7px #ebecca,
+    0 0 25px 20px #8a2be2,
+    0 0 30px 25px #ff1493;
+}
+
+
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+#moreinfo{
+    height:60vh;
+    width: 80vw;
+    background-color:  #EEEEEE;
+    
+
+}
+
+
+
+#skil{
+    font-size: 5em;
+    /* 	margin-bottom: 2em; */
+        text-transform: uppercase;
+        letter-spacing: 10px;
+        text-align: center;
+        font-family: Lora, serif;
+        font-weight: 200;
+}
+#skil:hover{
+    color: orange;
+    transition: color ease-out 2s 100ms;
+}
+
+
+
+@media (max-width: 900px) {
+    img {
+      /* Adjust image styles for small screens */
+      max-width: 100%;
+      height: auto;
+    }
+  }

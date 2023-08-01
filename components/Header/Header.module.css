@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:200,300,400,400i,700");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:200,400,400i,700");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Lato, sans-serif;
+}
+#header{
+    height:98vh;
+    background-color: #181818;
+    
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 30px;
+    
+    
+}
+
+
+
+
+
+#image{
+    height: 87vh;
+   
+
+   
+}
+
+
+#nameContainer{
+    display:flex;
+    position:absolute;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    padding-right: 50%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+#Text{
+    color: white;
+    font-size: 80px;
+    padding: 0;
+    margin: 0;
+}
+
+
+#orange{
+    color: orange;
+}
+
+#change:hover{
+    color:white;
+}
+
+.orange{
+    color:orange;
+}
+#web{
+    font-size: 40px;
+}
+
+
+
+
+@media (max-width: 800px) {
+
+ #Text{
+    font-size: 30px;
+ }
+  }
+
+

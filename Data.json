@@ -1,0 +1,44 @@
+[
+    {
+        "val":"",
+        "data":"click on icons to know more..."
+    },
+    {
+        "val":"React",
+        "data":"As a seasoned front-end developer, I specialize in harnessing the power of React to build intuitive and interactive user interfaces. I take pride in creating modular and reusable components, ensuring scalability and maintainability throughout the development process. Whether it's crafting elegant UI designs, managing complex state with Redux, or integrating with RESTful APIs, I excel at bringing life to web applications that leave a lasting impact on users. My deep understanding of React's virtual DOM and component lifecycle enables me to optimize performance and deliver seamless user experiences across various devices and browsers."
+    ,
+    "proficiency":"Proficient",
+    "star":"⭐️⭐️⭐️⭐️"
+    },
+    {
+        "val":"MongoDB",
+        "data":"In the realm of database management, I have honed my skills with MongoDB, a robust NoSQL database solution. My expertise lies in designing efficient database schemas that align with the unique requirements of each project. From performing CRUD operations to leveraging advanced aggregation pipelines, I ensure data retrieval and manipulation are smooth and swift. With MongoDB's flexible document structure, I can adapt to evolving data needs."
+        ,
+    "proficiency":"Intermidiate",
+    "star":"⭐️⭐️⭐️"
+    },
+    {
+        "val":"Javascript",
+        "data":"JavaScript serves as the cornerstone of my web development journey. My deep understanding of core JavaScript concepts, coupled with mastery of modern ES6+ features, allows me to create robust and performant web applications. I am skilled in DOM manipulation, enabling dynamic content and interactivity on websites. My proficiency in asynchronous programming ensures smooth user experiences by managing data-fetching and processing efficiently. Moreover, my experience with various JavaScript frameworks and libraries empowers me to select the right tools for each project, driving innovation and fostering creativity in my work."
+        ,
+    "proficiency":"Advanced",
+    "star":"⭐️⭐️⭐️⭐️⭐️"
+    
+    },
+    {
+        "val":"Node.js",
+        "data":"With Node.js as my primary backend technology, I embrace the power of JavaScript on the server-side. I take advantage of its event-driven, non-blocking I/O model to create scalable and real-time applications. My proficiency in building RESTful APIs using frameworks like Express.js enables seamless communication between the server and client-side applications. I thrive on handling asynchronous operations with ease, making applications responsive and efficient. By leveraging Node.js's vast ecosystem of libraries, I can rapidly develop feature-rich applications that cater to diverse business needs."
+        ,
+    "proficiency":"Proficient",
+    "star":"⭐️⭐️⭐️⭐️"
+    },
+    {
+        "val":"Github",
+        "data":"GitHub is not just a code repository; it's a platform for collaboration and community building. If you share a passion for web development and open-source, I'd love to connect with you. Whether it's discussing potential collaborations, exchanging ideas, or exploring new projects, I'm always excited to engage with fellow developers."
+        ,
+    "proficiency":"Proficient",
+    "star":"⭐️⭐️⭐️⭐️"
+
+}
+    
+]

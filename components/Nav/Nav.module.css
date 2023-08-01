@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:200,300,400,400i,700");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:200,400,400i,700");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Lato, sans-serif;
+}
+#maindiv{
+    background-color: #181818;
+    height:10vh;
+   display: flex;
+   padding: 10px;
+    
+}
+
+#listcontainer{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    align-items: flex-end;
+    
+}
+
+#list{
+    display: flex;
+    flex-direction: row;
+  
+}
+ 
+li{
+    list-style: none;
+    padding: 30px;
+    font-size: larger;
+    color: white;
+}
+
+#head{
+    color:white;
+
+}
+
+li:hover{
+    color:orange;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    color:orange
+}
+
+@media (max-width: 800px) {
+
+#listcontainer{
+    flex-wrap: wrap;
+}
+
+#list{
+  flex-direction: column;
+    flex-wrap: wrap;
+    z-index: +2;
+}
+
+
+  }
